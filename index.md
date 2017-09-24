@@ -15,7 +15,7 @@ Specific experiences include
 - Led the ideation, inception, architecture, design and execution of a E-Commerce Fulfillment System to replace a vendor product. This in-house application with cutting edge technology and industry leading features (Optimization, Real Time Order Prioritization and execution), achieved 20% productivity improvement, cost efficiency, exponential improvement in volumes processed and reliability
 - Led the creation of Flex services –the core foundational services that serves as a foundational platform for multiple business solutions including multiple E-Commerce Fulfilment Centers, Buy Online Pickup in Store and Store electronic signage systems.
 - Led the creation of application architecture micro services and lambda layers, with 100% build, test and deploy automation. 
-- Co-Founded Mocha – Macy’s Inner Source initiative with objectives of getting to Open Source
+- Co-Founded an Inner Source initiative with objectives of getting to Open Source
 - CI CD Leadership: Envisioned CI CD maturity models, created platforms, processes and tools to create CI and CD capabilities on demand. 
 
 ## Links
