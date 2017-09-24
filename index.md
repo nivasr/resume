@@ -19,7 +19,7 @@ Specific experiences include
 - CI CD Leadership: Envisioned CI CD maturity models, created platforms, processes and tools to create CI and CD capabilities on demand. 
 
 ## Links
-[Linked in Profile] (https://linkedin.com/in/nivasr)
-[StackOverflow Profile] (https://stackoverflow.com/story/nivasr)
+[Linked in Profile](https://linkedin.com/in/nivasr)
+[StackOverflow Profile](https://stackoverflow.com/story/nivasr)
 
 
